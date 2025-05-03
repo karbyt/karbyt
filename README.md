@@ -1,4 +1,6 @@
-![Deskripsi gambar](./assets/myis3.gif)
+<p align="center">
+  <img src="./assets/myis3.gif" alt="Deskripsi gambar" />
+</p>
 <h1 align="center">Hi there 👋, I'm Karbyt</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Engineer+%F0%9F%9A%80;Web+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
@@ -51,7 +53,9 @@
 ---
 
 ### 🗿 My Daily Life 
-![Deskripsi gambar](./assets/code.gif)
+<p align="center">
+  <img src="./assets/code.gif" alt="Deskripsi gambar" />
+</p>
 > **Coding is ~~frustrating~~ fun :)**
 
 
